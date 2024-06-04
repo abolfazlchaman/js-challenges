@@ -1,0 +1,50 @@
+[
+    {
+        "rating": 4,
+        "comment": "Great product!"
+    },
+    {
+        "rating": 5,
+        "comment": "Excellent service."
+    },
+    {
+        "rating": 3,
+        "comment": "Average quality."
+    },
+    {
+        "rating": 4,
+        "comment": "Good value for money."
+    },
+    {
+        "rating": 2,
+        "comment": "Not satisfied with the product."
+    },
+    {
+        "rating": 5,
+        "comment": "Will buy again!"
+    },
+    {
+        "rating": 1,
+        "comment": "Very poor experience."
+    },
+    {
+        "rating": 3,
+        "comment": "It is okay."
+    },
+    {
+        "rating": 4,
+        "comment": "Met my expectations."
+    },
+    {
+        "rating": 5,
+        "comment": "Highly recommend it!"
+    },
+    {
+        "rating": 2,
+        "comment": "Could be better."
+    },
+    {
+        "rating": 3,
+        "comment": "Just fine."
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "rating": 1,
+        "comment": "Displeased."
+    },
+    {
+        "rating": 5,
+        "comment": "Displeased."
+    },
+    {
+        "rating": 2,
+        "comment": "Just fine."
+    },
+    {
+        "rating": 3,
+        "comment": "Loved it!"
+    },
+    {
+        "rating": 1,
+        "comment": "Average quality."
+    },
+    {
+        "rating": 1,
+        "comment": "Very disappointing."
+    },
+    {
+        "rating": 2,
+        "comment": "It is okay."
+    },
+    {
+        "rating": 1,
+        "comment": "Not satisfied with the product."
+    },
+    {
+        "rating": 5,
+        "comment": "Amazing quality."
+    },
+    {
+        "rating": 4,
+        "comment": "Below average."
+    },
+    {
+        "rating": 1,
+        "comment": "Pleasantly surprised."
+    },
+    {
+        "rating": 4,
+        "comment": "Fairly good."
+    },
+    {
+        "rating": 3,
+        "comment": "Not worth the price."
+    },
+    {
+        "rating": 3,
+        "comment": "Would not recommend."
+    },
+    {
+        "rating": 4,
+        "comment": "Excellent service."
+    },
+    {
+        "rating": 3,
+        "comment": "Good value for money."
+    },
+    {
+        "rating": 2,
+        "comment": "Loved it!"
+    },
+    {
+        "rating": 5,
+        "comment": "Outstanding!"
+    },
+    {
+        "rating": 1,
+        "comment": "Would not recommend."
+    },
+    {
+        "rating": 2,
+        "comment": "Below average."
+    },
+    {
+        "rating": 5,
+        "comment": "Pleasantly surprised."
+    },
+    {
+        "rating": 1,
+        "comment": "Terrible service."
+    },
+    {
+        "rating": 1,
+        "comment": "Worth every penny."
+    },
+    {
+        "rating": 2,
+        "comment": "Below average."
+    },
+    {
+        "rating": 5,
+        "comment": "Worth every penny."
+    },
+    {
+        "rating": 3,
+        "comment": "Great product!"
+    },
+    {
+        "rating": 1,
+        "comment": "Will buy again!"
+    },
+    {
+        "rating": 5,
+        "comment": "Just fine."
+    },
+    {
+        "rating": 2,
+        "comment": "Highly recommend it!"
+    },
+    {
+        "rating": 5,
+        "comment": "Below average."
+    },
+    {
+        "rating": 2,
+        "comment": "Regrettable."
+    },
+    {
+        "rating": 5,
+        "comment": "It is okay."
+    },
+    {
+        "rating": 4,
+        "comment": "Satisfactory."
+    },
+    {
+        "rating": 4,
+        "comment": "Highly recommend it!"
+    },
+    {
+        "rating": 2,
+        "comment": "Regrettable."
+    },
+    {
+        "rating": 4,
+        "comment": "Will buy again!"
+    },
+    {
+        "rating": 2,
+        "comment": "Just fine."
+    },
+    {
+        "rating": 5,
+        "comment": "Marvelous."
+    },
+    {
+        "rating": 1,
+        "comment": "Marvelous."
+    },
+    {
+        "rating": 4,
+        "comment": "Below average."
+    },
+    {
+        "rating": 4,
+        "comment": "Impressive."
+    },
+    {
+        "rating": 3,
+        "comment": "Very poor experience."
+    },
+    {
+        "rating": 1,
+        "comment": "Outstanding!"
+    },
+    {
+        "rating": 5,
+        "comment": "Excellent service."
+    },
+    {
+        "rating": 4,
+        "comment": "Below average."
+    },
+    {
+        "rating": 2,
+        "comment": "Very disappointing."
+    },
+    {
+        "rating": 4,
+        "comment": "Satisfactory."
+    },
+    {
+        "rating": 1,
+        "comment": "Not as described."
+    },
+    {
+        "rating": 2,
+        "comment": "Five stars!"
+    },
+    {
+        "rating": 4,
+        "comment": "Loved it!"
+    },
+    {
+        "rating": 3,
+        "comment": "Average quality."
+    },
+    {
+        "rating": 5,
+        "comment": "Could be better."
+    },
+    {
+        "rating": 2,
+        "comment": "Just fine."
+    },
+    {
+        "rating": 3,
+        "comment": "Not as described."
+    },
+    {
+        "rating": 1,
+        "comment": "Could be better."
+    },
+    {
+        "rating": 2,
+        "comment": "Not satisfied with the product."
+    },
+    {
+        "rating": 4,
+        "comment": "Five stars!"
+    },
+    {
+        "rating": 2,
+        "comment": "Marvelous."
+    },
+    {
+        "rating": 2,
+        "comment": "Very disappointing."
+    },
+    {
+        "rating": 4,
+        "comment": "Fairly good."
+    },
+    {
+        "rating": 2,
+        "comment": "Loved it!"
+    },
+    {
+        "rating": 2,
+        "comment": "Amazing quality."
+    },
+    {
+        "rating": 1,
+        "comment": "Regrettable."
+    },
+    {
+        "rating": 5,
+        "comment": "Best purchase ever."
+    },
+    {
+        "rating": 4,
+        "comment": "One star."
+    },
+    {
+        "rating": 1,
+        "comment": "Highly recommend it!"
+    },
+    {
+        "rating": 2,
+        "comment": "Regrettable."
+    },
+    {
+        "rating": 5,
+        "comment": "Average quality."
+    },
+    {
+        "rating": 4,
+        "comment": "Fantastic!"
+    },
+    {
+        "rating": 3,
+        "comment": "Fairly good."
+    },
+    {
+        "rating": 5,
+        "comment": "Not satisfied with the product."
+    },
+    {
+        "rating": 5,
+        "comment": "Horrible!"
+    },
+    {
+        "rating": 4,
+        "comment": "Terrible service."
+    },
+    {
+        "rating": 3,
+        "comment": "Great product!"
+    },
+    {
+        "rating": 5,
+        "comment": "Loved it!"
+    },
+    {
+        "rating": 3,
+        "comment": "Satisfactory."
+    },
+    {
+        "rating": 5,
+        "comment": "Highly recommend it!"
+    },
+    {
+        "rating": 2,
+        "comment": "Loved it!"
+    },
+    {
+        "rating": 3,
+        "comment": "Not worth the price."
+    },
+    {
+        "rating": 1,
+        "comment": "Worth every penny."
+    },
+    {
+        "rating": 5,
+        "comment": "Worth every penny."
+    },
+    {
+        "rating": 2,
+        "comment": "Just fine."
+    },
+    {
+        "rating": 2,
+        "comment": "Not up to the mark."
+    },
+    {
+        "rating": 3,
+        "comment": "Will buy again!"
+    },
+    {
+        "rating": 3,
+        "comment": "Amazing quality."
+    },
+    {
+        "rating": 2,
+        "comment": "Horrible!"
+    },
+    {
+        "rating": 2,
+        "comment": "Top-notch quality."
+    },
+    {
+        "rating": 5,
+        "comment": "Displeased."
+    },
+    {
+        "rating": 5,
+        "comment": "Will buy again!"
+    },
+    {
+        "rating": 5,
+        "comment": "Could be better."
+    },
+    {
+        "rating": 3,
+        "comment": "Wonderful experience."
+    },
+    {
+        "rating": 2,
+        "comment": "Excellent service."
+    },
+    {
+        "rating": 5,
+        "comment": "Five stars!"
+    },
+    {
+        "rating": 1,
+        "comment": "Wonderful experience."
+    },
+    {
+        "rating": 4,
+        "comment": "Highly recommend it!"
+    },
+    {
+        "rating": 4,
+        "comment": "Will buy again!"
+    },
+    {
+        "rating": 5,
+        "comment": "Average quality."
+    },
+    {
+        "rating": 3,
+        "comment": "One star."
+    },
+    {
+        "rating": 4,
+        "comment": "Displeased."
+    },
+    {
+        "rating": 5,
+        "comment": "Not worth the price."
+    },
+    {
+        "rating": 2,
+        "comment": "Very poor experience."
+    },
+    {
+        "rating": 2,
+        "comment": "Top-notch quality."
+    },
+    {
+        "rating": 2,
+        "comment": "Exceeded my expectations."
+    },
+    {
+        "rating": 5,
+        "comment": "Unacceptable."
+    },
+    {
+        "rating": 3,
+        "comment": "Good value for money."
+    },
+    {
+        "rating": 5,
+        "comment": "Average quality."
+    },
+    {
+        "rating": 1,
+        "comment": "Very disappointing."
+    },
+    {
+        "rating": 3,
+        "comment": "Outstanding!"
+    },
+    {
+        "rating": 1,
+        "comment": "Exceeded my expectations."
+    },
+    {
+        "rating": 2,
+        "comment": "Not up to the mark."
+    },
+    {
+        "rating": 4,
+        "comment": "Not satisfied with the product."
+    },
+    {
+        "rating": 3,
+        "comment": "Regrettable."
+    },
+    {
+        "rating": 3,
+        "comment": "Average quality."
+    },
+    {
+        "rating": 1,
+        "comment": "Terrible service."
+    },
+    {
+        "rating": 5,
+        "comment": "Met my expectations."
+    },
+    {
+        "rating": 4,
+        "comment": "Below average."
+    },
+    {
+        "rating": 2,
+        "comment": "Unacceptable."
+    },
+    {
+        "rating": 5,
+        "comment": "Regrettable."
+    },
+    {
+        "rating": 5,
+        "comment": "Met my expectations."
+    },
+    {
+        "rating": 5,
+        "comment": "Best purchase ever."
+    },
+    {
+        "rating": 3,
+        "comment": "Amazing quality."
+    },
+    {
+        "rating": 2,
+        "comment": "Unacceptable."
+    },
+    {
+        "rating": 4,
+        "comment": "Excellent service."
+    },
+    {
+        "rating": 2,
+        "comment": "Could be better."
+    },
+    {
+        "rating": 3,
+        "comment": "Marvelous."
+    },
+    {
+        "rating": 3,
+        "comment": "Fantastic!"
+    },
+    {
+        "rating": 1,
+        "comment": "Pleasantly surprised."
+    },
+    {
+        "rating": 4,
+        "comment": "Not up to the mark."
+    },
+    {
+        "rating": 2,
+        "comment": "Exceeded my expectations."
+    },
+    {
+        "rating": 2,
+        "comment": "Very disappointing."
+    },
+    {
+        "rating": 1,
+        "comment": "Displeased."
+    },
+    {
+        "rating": 2,
+        "comment": "Good value for money."
+    },
+    {
+        "rating": 4,
+        "comment": "One star."
+    },
+    {
+        "rating": 4,
+        "comment": "Not worth the price."
+    },
+    {
+        "rating": 3,
+        "comment": "Good value for money."
+    },
+    {
+        "rating": 5,
+        "comment": "Pleasantly surprised."
+    },
+    {
+        "rating": 4,
+        "comment": "Horrible!"
+    },
+    {
+        "rating": 3,
+        "comment": "Worth every penny."
+    },
+    {
+        "rating": 1,
+        "comment": "Displeased."
+    },
+    {
+        "rating": 4,
+        "comment": "Displeased."
+    },
+    {
+        "rating": 4,
+        "comment": "Fairly good."
+    },
+    {
+        "rating": 2,
+        "comment": "Met my expectations."
+    },
+    {
+        "rating": 3,
+        "comment": "Pleasantly surprised."
+    },
+    {
+        "rating": 2,
+        "comment": "Horrible!"
+    },
+    {
+        "rating": 5,
+        "comment": "Could be better."
+    },
+    {
+        "rating": 2,
+        "comment": "Wonderful experience."
+    },
+    {
+        "rating": 2,
+        "comment": "Would not recommend."
+    },
+    {
+        "rating": 3,
+        "comment": "Amazing quality."
+    },
+    {
+        "rating": 3,
+        "comment": "Wonderful experience."
+    },
+    {
+        "rating": 1,
+        "comment": "Outstanding!"
+    },
+    {
+        "rating": 5,
+        "comment": "It is okay."
+    },
+    {
+        "rating": 1,
+        "comment": "Amazing quality."
+    },
+    {
+        "rating": 1,
+        "comment": "Best purchase ever."
+    },
+    {
+        "rating": 2,
+        "comment": "Marvelous."
+    },
+    {
+        "rating": 3,
+        "comment": "Could be better."
+    },
+    {
+        "rating": 5,
+        "comment": "Terrible service."
+    },
+    {
+        "rating": 2,
+        "comment": "Amazing quality."
+    },
+    {
+        "rating": 3,
+        "comment": "Highly recommend it!"
+    },
+    {
+        "rating": 5,
+        "comment": "Marvelous."
+    },
+    {
+        "rating": 1,
+        "comment": "Great product!"
+    },
+    {
+        "rating": 1,
+        "comment": "Wonderful experience."
+    },
+    {
+        "rating": 5,
+        "comment": "Unacceptable."
+    },
+    {
+        "rating": 4,
+        "comment": "Best purchase ever."
+    },
+    {
+        "rating": 1,
+        "comment": "Very poor experience."
+    },
+    {
+        "rating": 2,
+        "comment": "Satisfactory."
+    },
+    {
+        "rating": 3,
+        "comment": "Not as described."
+    },
+    {
+        "rating": 2,
+        "comment": "Would not recommend."
+    },
+    {
+        "rating": 5,
+        "comment": "Regrettable."
+    },
+    {
+        "rating": 5,
+        "comment": "Very poor experience."
+    },
+    {
+        "rating": 5,
+        "comment": "Marvelous."
+    },
+    {
+        "rating": 1,
+        "comment": "Outstanding!"
+    },
+    {
+        "rating": 3,
+        "comment": "Top-notch quality."
+    },
+    {
+        "rating": 5,
+        "comment": "Fantastic!"
+    },
+    {
+        "rating": 1,
+        "comment": "Fantastic!"
+    },
+    {
+        "rating": 1,
+        "comment": "Exceeded my expectations."
+    },
+    {
+        "rating": 1,
+        "comment": "Met my expectations."
+    },
+    {
+        "rating": 1,
+        "comment": "Fairly good."
+    },
+    {
+        "rating": 3,
+        "comment": "Highly recommend it!"
+    },
+    {
+        "rating": 1,
+        "comment": "It is okay."
+    },
+    {
+        "rating": 4,
+        "comment": "Terrible service."
+    },
+    {
+        "rating": 4,
+        "comment": "Below average."
+    },
+    {
+        "rating": 3,
+        "comment": "Very disappointing."
+    },
+    {
+        "rating": 1,
+        "comment": "Not up to the mark."
+    },
+    {
+        "rating": 3,
+        "comment": "Good value for money."
+    },
+    {
+        "rating": 2,
+        "comment": "Would not recommend."
+    },
+    {
+        "rating": 1,
+        "comment": "Pleasantly surprised."
+    },
+    {
+        "rating": 3,
+        "comment": "Exceeded my expectations."
+    },
+    {
+        "rating": 2,
+        "comment": "Fantastic!"
+    },
+    {
+        "rating": 5,
+        "comment": "Exceeded my expectations."
+    },
+    {
+        "rating": 5,
+        "comment": "Amazing quality."
+    },
+    {
+        "rating": 1,
+        "comment": "Not worth the price."
+    },
+    {
+        "rating": 2,
+        "comment": "Worth every penny."
+    },
+    {
+        "rating": 2,
+        "comment": "Will buy again!"
+    },
+    {
+        "rating": 2,
+        "comment": "Top-notch quality."
+    },
+    {
+        "rating": 4,
+        "comment": "Exceeded my expectations."
+    },
+    {
+        "rating": 3,
+        "comment": "Met my expectations."
+    },
+    {
+        "rating": 1,
+        "comment": "Fairly good."
+    },
+    {
+        "rating": 1,
+        "comment": "One star."
+    },
+    {
+        "rating": 1,
+        "comment": "Highly recommend it!"
+    },
+    {
+        "rating": 1,
+        "comment": "Highly recommend it!"
+    }
+]
